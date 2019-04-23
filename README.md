@@ -5,3 +5,5 @@ The aim of this notebook is to provide a preliminary and exploratory analysis of
 I'd like to thank Rafael Alencar and Bert Carremans for theirs kernels, they were essential to perform the discussions in this notebook.
 
 It's also important to highlight that it's not the goal of this notebook to go deep in the solution, however it has achieved a successful auc score in the end.
+
+obs : Datasets (training and test) must be downloaded from the link above.
