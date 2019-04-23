@@ -1,6 +1,6 @@
 # Kaggle - Porto Seguro Safe Driver Prediction
 
-The aim of this notebook is to provide a preliminary and exploratory analysis of Kaggle Porto Seguro prediction problem (available at : https://www.kaggle.com/c/porto-seguro-safe-driver-prediction), giving some tips of how to deal with missing and unbalanced data. After doing that, random forest will be tested and some discussions around it will be conducted considering accuracy and auc score results. The prediction feature is "target", we will try to predict it from the other features (except id and removed features during the pre-processing).
+The aim of this notebook is to provide a preliminary and exploratory analysis of Kaggle Porto Seguro prediction problem (available at : https://www.kaggle.com/c/porto-seguro-safe-driver-prediction), giving some tips on how to deal with missing and unbalanced data. After doing that, random forest will be tested and some discussions around it will be conducted considering accuracy and auc score results. The prediction feature is "target", we will try to predict it from the other features (except id and removed features during the pre-processing).
 
 
 I'd like to thank Rafael Alencar and Bert Carremans for theirs kernels, they were essential to perform the discussions in this notebook.
